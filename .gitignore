@@ -1,0 +1,23 @@
+# NPM
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Building
+tests.webpack.js.map
+build
+
+# Tests
+coverage
+.nyc_output
+test/e2e/reports
+cypress/videos
+cypress/integration
+cypress/fixtures
+
+
+# IDE
+.idea
+webinfra-example-app-frontend.iml
+.DS_Store
+reports/
